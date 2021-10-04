@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sudipta002 (Sudipta Ghosh)
 - 👀 I’m interested in ML/AI.
-- 🌱 I’m currently learning exploring algorithms of NLP.
+- 🌱 I’m currently learning and exploring algorithms of NLP.
 - 💞️ I’m looking to collaborate on Open Source.
 - 📫 Pleas reach out to me at https://www.linkedin.com/in/sudipta002/
 
