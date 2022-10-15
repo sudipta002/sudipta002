@@ -2,7 +2,7 @@
 - 👀 I’m interested in ML/AI.
 - 🌱 I’m currently learning and exploring algorithms of NLP.
 - 💞️ I’m looking to collaborate on Open Source.
-- 📫 Pleas reach out to me at https://www.linkedin.com/in/sudipta002/
+- 📫 Please reach out to me at https://www.linkedin.com/in/sudipta002/
 
 <!---
 sudipta002/sudipta002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
